@@ -1,2 +1,1 @@
-# moodtest
-moodify gh test
+# moodify
